@@ -1,6 +1,6 @@
-# Project Title
+# The Great CEO
 
-One Paragraph of project description goes here
+This project is an Android app game that becomes a CEO and runs a company.
 
 ## Getting Started
 
